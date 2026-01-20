@@ -17,7 +17,7 @@ The `rename.py` script normalizes all image filenames to ensure consistent namin
 ### 3. Labeling
 The `automatic_label.py` tool provides a user-friendly GUI for annotating the Connect 4 board states in each image:
 
-<img src="labeling.png" width="200" alt="Labeling Interface">
+<img src="labeling.png" width="400" alt="Labeling Interface">
 
 This interface allows quick and accurate labeling of each cell in the 6x7 Connect 4 grid, marking empty spaces, red pieces, and yellow pieces.
 
