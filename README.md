@@ -25,7 +25,7 @@ This interface allows quick and accurate labeling of each cell in the 6x7 Connec
 A **Fully Convolutional Neural Network (FCNN)** is trained to detect and classify each position on the Connect 4 board. The model learns to:
 - Identify the board grid structure
 - Classify each cell as empty, red piece, or yellow piece
-- Handle various lighting conditions and viewing angles
+- Handle various lighting conditions
 
 ### Training Results
 
