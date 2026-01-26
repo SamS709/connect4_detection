@@ -1,5 +1,8 @@
-data/images/*
-!data/images/.gitkeep*
+connect4/data/images/*
+!connect4/data/images/.gitkeep*
+
+tictactoe/data/images/*
+!tictactoe/data/images/.gitkeep*
 
 # Python cache
 __pycache__/
